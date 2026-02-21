@@ -53,3 +53,12 @@ TfidfVectorizer(
     max_df=0.95,
     sublinear_tf=True
 )
+
+## 📊 Model Output
+
+Below is the evaluation output including metrics and confusion matrix:
+## Confusion Matrix
+![Confusion Matrix](Confusion_Matrix_for_Logistic_Regression.png)
+
+## Class-wise F1 Scores
+![F1 Scores](F1-Score_Comparison.png)
